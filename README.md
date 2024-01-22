@@ -21,7 +21,6 @@
 
 ```bash
 git clone https://github.com/prettygenius/reduxcc.git
-cd 
 ```
 Install dependencies:
 ```
