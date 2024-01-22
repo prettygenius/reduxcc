@@ -8,6 +8,7 @@
 
 -  Use redux store container for counter app state management 
 -  use of core redux fundamentals with state action and reducer
+-  use of ducks pattern file structure
 
 ## Technologies Used
 
